@@ -12,21 +12,22 @@ img_path: /static/assets/img/blog
 # author
 author:
   name: Jarrekk
-  first_name: Kun
-  last_name: Jia
+  first_name: Ferhat
+  last_name: Yalçın
   cv: http://cv.jarrekk.com
-  email: me@jarrekk.com
+  email: ylcnfrht@gmail.com
   facebook_username: jiakunnj
-  github_username: jarrekk
+  github_username: ylcnfrht
   linkedin_id: jarrekk
-  avatar: /static/assets/img/landing/Jack.jpeg
+  avatar: /static/assets/img/landing/profile.jpeg
   skill_icon1:
     - name: icon-python
     - name: icon-shell
   skill_icon2:
     - name: icon-mongodb
     - name: icon-docker
-  desc: I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.
+  desc:  I am software engineer with 2+ years experience, skilled in Node.JS, Javascript, Restful APIs and noSQL databases such as couchbase, redis, mongoDB and writing scripts experience. passion for learn new technologies.Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.
+
 
 # comment
 disqus:
